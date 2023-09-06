@@ -4,8 +4,7 @@ An implementation of "Legend of Burdell", a custom game where a player must move
 ## Demo: Full Game Walkthrough
 The following video is a full walkthrough of the gameplay and features.
 
-Uploading LegendofBurdell_Demo.mp4…
-
+https://github.com/tjkakade/Pokemon-Style-Game/assets/122889050/e5f9548e-bcfe-4a6e-a9d9-d870cc24b587
 
 ## Rules
 You can move the player using the NAV Stick. First, find the wizard. Use the interact key to speak with the wizard. He will give you directions on where to go. Once you have reached the boss, you must use the correct spell and ONLY the correct spell to defeat him! After defeating the boss, grab the key and make a break for the exit! You can't exit the door without the key... good luck!
